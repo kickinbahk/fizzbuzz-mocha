@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "mocha"
+    "test": "mocha tests/test.spec.js"
   },
   "keywords": [],
   "author": "",
